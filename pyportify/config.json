@@ -1,6 +1,6 @@
 {
   "name": "Pyportify",
-  "version": "1",
+  "version": "1.1",
   "slug": "pyportify",
   "description": "Transfers your Spotify Premium playlists to Google Music: All Access",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
