@@ -1,0 +1,19 @@
+{
+  "name": "Pyportify",
+  "version": "1",
+  "slug": "pyportify",
+  "description": "Transfers your Spotify Premium playlists to Google Music: All Access",
+  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+  "startup": "before",
+  "boot": "auto",
+  "ingress": true,
+  "ingress_port": 3132,
+  "options": {},
+  "schema": {},
+  "ports": {
+    "3132/tcp": null
+  },
+  "ports_description": {
+    "3132/tcp": "(Not required for Hass.io Ingress)"
+  }
+}
